@@ -1,0 +1,16 @@
+{    
+    "bot_token": "7125394214:AAFVkjlCDFFa_IjJ-gGR_bTiXCXuap4mpzk",    
+    "username": "@sna2_bot",
+    "mongodb_connection_string_old": "mongodb+srv://prasaanth1:Covai35007@prasaanth.hut8crb.mongodb.net/",
+    "mongodb_connection_string": "mongodb+srv://vishal:User123@test1.qveospq.mongodb.net/",
+    "sop_file_path": "pdf/Standard_Operating_Procedure.pdf",
+    "thumnail":"pdf/thumnail.jpg",
+    "welcome_message": "message/general_welcome.txt",
+    "general_message": "message/Welcome_message.txt",
+    "webhook_url": "https://vishalsv.selfmade.one/webhook",
+    "group_id": {
+        
+        "-4204181195": "SNA Test Group"
+
+    }
+}
